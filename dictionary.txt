@@ -40,6 +40,7 @@ libary        -> library
 listner       -> listener
 looses:       -> loses
 looup         -> lookup
+lieing        -> lying
 manefist      -> manifest
 namesapce     -> namespace
 namespcae     -> namespace
@@ -62,6 +63,9 @@ reutrn        -> return
 saftey        -> safety
 seperate      -> separate
 singed        -> signed
+sattus        -> status
+satutus       -> status
+stau          -> status
 stirng        -> string
 strign        -> string
 swithc        -> switch
